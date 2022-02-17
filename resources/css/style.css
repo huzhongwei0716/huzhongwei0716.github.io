@@ -1,0 +1,39 @@
+h1.result {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.tuition-cost {
+    margin-bottom: 20px;
+}
+
+.expenses {
+    padding-top: 5rem;
+}
+
+.section-header {
+    text-align: center;
+}
+
+.cost-radio {
+    width: 45%;
+}
+
+select {
+    margin-bottom: 10px;
+}
+
+.cost-results p{
+    font-size: large;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+.cost-results p span {
+    font-weight: bold;
+}
+
+.reset-button {
+    margin-top: 45px;
+    width: 100%;
+}

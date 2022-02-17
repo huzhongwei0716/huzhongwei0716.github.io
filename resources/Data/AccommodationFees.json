@@ -1,0 +1,63 @@
+costData = 
+{
+    "Unimelb": {
+		"Bachelor of Fine Arts": {
+			"Bachelor of Fine Arts Acting": {
+                "Locality": {"International": "31328", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Animation": {
+                "Locality": {"International": "55100", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            }
+		},
+		"Bachelor of Arts": {
+			"Ancient World Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Anthropology": {
+                "Locality": {"International": "35200-40217", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            }
+		}
+	},
+	"Monash": {
+		"Design and Fine Arts": {
+			"Architectural Design": {
+                "Locality": {"International": "43100", "Domestic": "9000"},
+                "Campuses": {"Caufield": "10400"}
+            },
+			"Design": {
+                "Locality": {"International": "35800", "Domestic": "9500"},
+                "Campuses": {"Caufield": "10400"}
+            }
+		},
+		"Art Faculty": {
+			"Criminology": {
+                "Locality": {"International": "34700", "Domestic": "14630"},
+                "Campuses": {"Clayton": "9490"}
+            }
+		}
+		
+	},
+	"La Trobe University": {
+		"Arts, Social Sciences and Communications": {
+			"Bachelor of Archeology": {
+                "Locality": {"International": "31400", "Domestic": "13001"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Arts": {
+                "Locality": {"International": "31400", "Domestic": "12080"},
+                "Campuses": {
+                    "Bundoora": "9620", 
+                    "Albury-Wodonga": "8320",
+                    "Mildura": "7540",
+                    "Bendigo": "8580",
+                    "Shepparton": "7280",
+                    "Online": "0"
+                }
+            }
+		}
+	}
+}

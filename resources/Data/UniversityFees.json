@@ -1,0 +1,31 @@
+UniversityFeeData = 
+{
+	// University
+		// Faculty
+			// Subject
+	"Unimelb": {
+		"Bachelor of Fine Arts": {
+			"Bachelor of Fine Arts Acting": {"International": "31328", "Domestic": "8021"},
+			"Bachelor of Fine Arts Animation": {"International": "55100", "Domestic": "8021"}
+		},
+		"Bachelor of Arts": {
+			"Ancient World Studies": {"International": "35200-40216", "Domestic": "14630"},
+			"Anthropology": {"International": "35200-40217", "Domestic": "14630"}
+		}
+	},
+	"Monash": {
+		"Design and Fine Arts": {
+			"Architectural Design": {"International": "43100", "Domestic": "9000"},
+			"Design": {"International": "35800", "Domestic": "9500"}
+		},
+		"Art Faculty": {
+			"Criminology": {"International": "34700", "Domestic": "14630"}
+		}
+		
+	},
+	"La Trobe University": {
+		"Arts, Social Sciences and Communications": {
+			"Bachelor of Archeology": {"International": "31400", "Domestic": "13001"}
+		}
+	}
+};
