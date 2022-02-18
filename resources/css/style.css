@@ -3,6 +3,10 @@ h1.result {
     margin-top: 100px;
 }
 
+.navbar-brand {
+    margin-left: 50px;
+}
+
 .tuition-cost {
     margin-bottom: 20px;
 }

@@ -1,0 +1,573 @@
+costData = 
+{
+    "Unimelb": {
+		"Bachelor of Fine Arts": {
+			"Bachelor of Fine Arts Acting": {
+                "Locality": {"International": "31328", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Animation": {
+                "Locality": {"International": "55100", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Dance": {
+                "Locality": {"International": "31328", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Film and Television": {
+                "Locality": {"International": "55100", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Music Theatre": {
+                "Locality": {"International": "31328", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Screenwriting": {
+                "Locality": {"International": "31328", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Theatre": {
+                "Locality": {"International": "31328", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+			"Bachelor of Fine Arts Visual Art": {
+                "Locality": {"International": "31328", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            }
+		},
+		"Bachelor of Arts": {
+			"Ancient World Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Anthropology": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Arabic Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Art History": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Asian Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Chinese Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Classics": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Creative Writing": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Criminology": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Economics": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"English and Theatre Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"French Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Gender Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Geography": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"German Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Hebrew and Jewish Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"History": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"History and Philosophy of Science": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Indigenous Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Indonesian Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Islamic Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Italian Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Japanese Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Linguistics and Applied Linguistics": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Media and Communications": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Philosophy": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Politics and International Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Psychology": {
+                "Locality": {"International": "35200-40216", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Russian Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Screen and Cultural Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Sociology": {
+                "Locality": {"International": "35200-40216", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+			"Spanish and Latin American Studies": {
+                "Locality": {"International": "35200-40216", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            }
+		},
+        "Bachelor of Biomedicine": {
+            "Biochemistry and Molecular Biology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Biomedical Engineering Systems": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Biotechnology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Cell and Developmental Biology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Genetics": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Human Nutrition": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Human Structure and Function": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Immunology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Infection and Immunity": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Microbiology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Neuroscience": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Pathology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Pharmacology": {
+                "Locality": {"International": "44760-47056", "Domestic": "11401"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Physiology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Psychology": {
+                "Locality": {"International": "44760-47056", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            }
+        },
+        "Bachelor of Commerce": {
+            "Accounting": {
+                "Locality": {"International": "42520-45412", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Actuarial Studies": {
+                "Locality": {"International": "42520-45412", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Economics": {
+                "Locality": {"International": "42520-45412", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Finance": {
+                "Locality": {"International": "42520-45412", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Management": {
+                "Locality": {"International": "42520-45412", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Marketing": {
+                "Locality": {"International": "42520-45412", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            }
+        },
+        "Bachelor of Design": {
+            "Architecture": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Civil Engineering Systems": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Computing": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Construction": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Digital Technologies": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Graphic Design": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Landscape Architecture": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Mechanical Engineering Systems": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Performance Design": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Property": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Spatial Systems": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Urban Planning": {
+                "Locality": {"International": "35488-46704", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            }
+        },
+        "Bachelor of Music": {
+            "Composition": {
+                "Locality": {"International": "32296-35040", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+            "Interactive Composition": {
+                "Locality": {"International": "32296-35040", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+            "Jazz & Improvisation": {
+                "Locality": {"International": "32296-35040", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+            "Music Studies": {
+                "Locality": {"International": "32296-35040", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+            "Musicology & Ethnomusicology": {
+                "Locality": {"International": "32296-35040", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+            "Performance": {
+                "Locality": {"International": "32296-35040", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            },
+            "Performance ANAM": {
+                "Locality": {"International": "32296-35040", "Domestic": "8021"},
+                "Campuses": {"Southbank": "11400"}
+            }
+        },
+        "Bachelor of Oral Health": {
+            "Bachelor of Oral Health": {
+                "Locality": {"International": "64152", "Domestic": "11401"},
+                "Campuses": {"Parkville": "11400"}
+            }
+        },
+        "Bachelor of Science": {
+            "Agricultural Science": {
+                "Locality": {"International": "43660-47528", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Animal Health and Disease": {
+                "Locality": {"International": "43660-47528", "Domestic": "11401"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Animal Science and Management": {
+                "Locality": {"International": "43660-47528", "Domestic": "11401"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Biochemistry and Molecular Biology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Biomedical Engineering Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Biotechnology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Cell and Developmental Biology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Chemical Engineering Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Chemistry": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Civil Engineering Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Climate and Weather": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Computational Biology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Computing and Software Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Data Science": {
+                "Locality": {"International": "43660-47528", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Ecology and Evolutionary Biology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Ecosystem Science": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Electrical Engineering Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Environmental Engineering Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Environmental Science": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Food Science": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Genetics": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Geography": {
+                "Locality": {"International": "43660-47528", "Domestic": "14630"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Geology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Human Nutrition": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Human Structure and Function": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Immunology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Infection and Immunity": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Informatics": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Marine Biology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Mathematical Physics": {
+                "Locality": {"International": "43660-47528", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Mathematics and Statistics": {
+                "Locality": {"International": "43660-47528", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Mechanical Engineering Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Mechatronics Engineering Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Microbiology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Neuroscience": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Pathology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Pharmacology": {
+                "Locality": {"International": "43660-47528", "Domestic": "11401"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Physics": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Physiology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Plant Science": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Psychology": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Spatial Systems": {
+                "Locality": {"International": "43660-47528", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Veterinary BioSciences": {
+                "Locality": {"International": "43660-47528", "Domestic": "11401"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Zoology": {
+                "Locality": {"International": "43660-47528", "Domestic": "11401"},
+                "Campuses": {"Parkville": "11400"}
+            }
+        },
+        "Bachelor of Agriculture": {
+            "Agricultural Economics": {
+                "Locality": {"International": "46680", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Plant and Soil Science": {
+                "Locality": {"International": "46680", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Production Animal Science": {
+                "Locality": {"International": "46680", "Domestic": "3985"},
+                "Campuses": {"Parkville": "11400"}
+            }
+        }
+	},
+	"Monash": {
+		"Design and Fine Arts": {
+			"Architectural Design": {
+                "Locality": {"International": "43100", "Domestic": "9000"},
+                "Campuses": {"Caufield": "10400"}
+            },
+			"Design": {
+                "Locality": {"International": "35800", "Domestic": "9500"},
+                "Campuses": {"Caufield": "10400"}
+            }
+		},
+		"Art Faculty": {
+			"Criminology": {
+                "Locality": {"International": "34700", "Domestic": "14630"},
+                "Campuses": {"Clayton": "9490"}
+            }
+		}
+		
+	},
+	"La Trobe University": {
+		"Arts, Social Sciences and Communications": {
+			"Bachelor of Archeology": {
+                "Locality": {"International": "31400", "Domestic": "13001"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Arts": {
+                "Locality": {"International": "31400", "Domestic": "12080"},
+                "Campuses": {
+                    "Bundoora": "9620", 
+                    "Albury-Wodonga": "8320",
+                    "Mildura": "7540",
+                    "Bendigo": "8580",
+                    "Shepparton": "7280",
+                    "Online": "0"
+                }
+            }
+		}
+	}
+}
