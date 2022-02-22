@@ -541,15 +541,174 @@ costData =
 			"Design": {
                 "Locality": {"International": "35800", "Domestic": "9500"},
                 "Campuses": {"Caufield": "10400"}
+            },
+			"Fine Art": {
+                "Locality": {"International": "34500", "Domestic": "10000"},
+                "Campuses": {"Caufield": "10400"}
+            },
+			"Arts": {
+                "Locality": {"International": "34700", "Domestic": "13000"},
+                "Campuses": {"Clayton": "9490"}
             }
 		},
 		"Art Faculty": {
 			"Criminology": {
                 "Locality": {"International": "34700", "Domestic": "14630"},
                 "Campuses": {"Clayton": "9490"}
+            },
+            "Media Communication": {
+                "Locality": {"International": "34700", "Domestic": "14000"},
+                "Campuses": {"Caufield": "10400"}
+            },
+            "Music": {
+                "Locality": {"International": "34700", "Domestic": "8500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Politics, Philosophy and Economics": {
+                "Locality": {"International": "39900", "Domestic": "14630"},
+                "Campuses": {"Clayton": "9490"}
             }
-		}
-		
+		},
+		"Commerce and Business": {
+            "Accounting": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Caufield": "10400"}
+            },
+            "Actuarial Science": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Banking and Finance": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Caufield": "10400"}
+            },
+            "Business": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Caufield": "10400"}
+            },
+            "Business Administration": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Peninsula": "9360"}
+            },
+            "Commerce": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Economics": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Finance": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "International Business": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Caufield": "10400"}
+            },
+            "Marketing": {
+                "Locality": {"International": "47300", "Domestic": "13500"},
+                "Campuses": {"Caufield": "10400"}
+            }
+        },
+        "Education": {
+            "Education": {
+                "Locality": {"International": "35700", "Domestic": "3985"},
+                "Campuses": {"Clayton": "9490"}
+            } 
+        },
+        "Engineering": {
+            "Engineering": {
+                "Locality": {"International": "48300", "Domestic": "8021"},
+                "Campuses": {"Clayton": "9490"}
+            } 
+        },
+        "Information Technology": {
+            "Computer Science": {
+                "Locality": {"International": "44900", "Domestic": "7500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Information Technology": {
+                "Locality": {"International": "44900", "Domestic": "8500"},
+                "Campuses": {"Clayton": "9490"}
+            } 
+        },
+        "Law": {
+            "Law": {
+                "Locality": {"International": "44100", "Domestic": "14630"},
+                "Campuses": {"Clayton": "9490"}
+            } 
+        },
+        "Medicine and Health": {
+            "Biomedical Science": {
+                "Locality": {"International": "44000", "Domestic": "8500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Health Sciences": {
+                "Locality": {"International": "35900", "Domestic": "8500"},
+                "Campuses": {"Caufield": "10400"}
+            },
+            "Nursing": {
+                "Locality": {"International": "36800", "Domestic": "5000"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Nutrition Science": {
+                "Locality": {"International": "40200", "Domestic": "8021"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Occupational Therapy": {
+                "Locality": {"International": "44000", "Domestic": "8021"},
+                "Campuses": {"Peninsula": "9360"}
+            },
+            "Paramedicine": {
+                "Locality": {"International": "35900", "Domestic": "8021"},
+                "Campuses": {"Peninsula": "9360"}
+            },
+            "Physiotherapy": {
+                "Locality": {"International": "49200", "Domestic": "8021"},
+                "Campuses": {"Peninsula": "9360"}
+            },
+            "Psychology": {
+                "Locality": {"International": "35900", "Domestic": "8500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Public Health": {
+                "Locality": {"International": "35900", "Domestic": "8021"},
+                "Campuses": {"Caufield": "10400"}
+            },
+            "Radiation Sciences": {
+                "Locality": {"International": "36800", "Domestic": "8021"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Radiography and Medical Imaging": {
+                "Locality": {"International": "49200", "Domestic": "8021"},
+                "Campuses": {"Clayton": "9490"}
+            }
+        },
+        "Pharmacy": {
+            "Pharmaceutical Science": {
+                "Locality": {"International": "43300", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            },
+            "Pharmacy": {
+                "Locality": {"International": "46700", "Domestic": "8021"},
+                "Campuses": {"Parkville": "11400"}
+            }
+        },
+        "Science": {
+            "Applied Data Science": {
+                "Locality": {"International": "48300", "Domestic": "6500"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Science": {
+                "Locality": {"International": "45700", "Domestic": "9000"},
+                "Campuses": {"Clayton": "9490"}
+            },
+            "Science Advanced - Global Challenges": {
+                "Locality": {"International": "50400", "Domestic": "9000"},
+                "Campuses": {"Clayton": "9490"}
+            }
+        }
 	},
 	"La Trobe University": {
 		"Arts, Social Sciences and Communications": {
