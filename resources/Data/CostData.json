@@ -1118,6 +1118,119 @@ costData =
             }
         }
     },
+    "RMIT": {
+        "Architecture and building": {
+            "Bachelor of Applied Science Aviation": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Applied Science Construction Management": {
+                "Locality": {"International": "37440", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Applied Science Project Management": {
+                "Locality": {"International": "37440", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Applied Science Property and Valuation": {
+                "Locality": {"International": "37440", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Applied Science Psychology": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Applied Science Surveying": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Architectural Design": {
+                "Locality": {"International": "46080", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Interior Design Honours": {
+                "Locality": {"International": "42240", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Landscape Architectural Design": {
+                "Locality": {"International": "42240", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Urban and Regional Planning": {
+                "Locality": {"International": "30720", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            }
+        },
+        "Science": {
+            "Bachelor of Data Science": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Science Applied Chemistry": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Science Applied Mathematics and Statistics": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Science Applied Sciences": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Science Biological Sciences": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Science Biotechnology": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Science Nanochemistry": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Science Physics": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Social Science (Psychology)": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Space Science": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            }
+        },
+        "Art and Design": {
+
+        },
+        "Health and Medical Sciences": {
+
+        },
+        "Business": {
+
+        },
+        " Communication and Digital Media": {
+
+        },
+        "Computing and Information Technology": {
+
+        },
+        "Community services and social sciences": {
+
+        },
+        "Eeducation and Training": {
+
+        },
+        "Engineering": {
+
+        },
+        "Environment and planning": {
+
+        }
+    },
 	"La Trobe University": {
 		"Arts, Social Sciences and Communications": {
 			"Bachelor of Archeology": {
