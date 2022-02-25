@@ -710,6 +710,414 @@ costData =
             }
         }
 	},
+    "Deakin": {
+        "Faculty of Arts": {
+            "Bachelor of Arts": {
+                "Locality": {"International": "30200", "Domestic": "12433"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor Creative Writing": {
+                "Locality": {"International": "31600", "Domestic": "10250"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Arts Psychology": {
+                "Locality": {"International": "30200", "Domestic": "10971"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Communication Advertising": {
+                "Locality": {"International": "31600", "Domestic": "13875"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Communication Digital Media": {
+                "Locality": {"International": "31600", "Domestic": "13843"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Communication Journalism": {
+                "Locality": {"International": "31600", "Domestic": "14317"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Communication Public Relations": {
+                "Locality": {"International": "31600", "Domestic": "14389"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Creative Arts Dance": {
+                "Locality": {"International": "33600", "Domestic": "9820"},
+                "Campuses": {"Burwood": "10660"}
+            },
+            "Bachelor of Creative Arts Drama": {
+                "Locality": {"International": "33600", "Domestic": "9766"},
+                "Campuses": {"Burwood": "10660"}
+            },
+            "Bachelor of Creative Arts Photography": {
+                "Locality": {"International": "33600", "Domestic": "10936"},
+                "Campuses": {"Burwood": "10660"}
+            },
+            "Bachelor of Creative Arts Visual Arts": {
+                "Locality": {"International": "33600", "Domestic": "9662"},
+                "Campuses": {"Burwood": "10660"}
+            },
+            "Bachelor of Criminology": {
+                "Locality": {"International": "30200", "Domestic": "13911"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Design 3d Animation": {
+                "Locality": {"International": "32400", "Domestic": "8537"},
+                "Campuses": {"Burwood": "10660"}
+            },
+            "Bachelor of Design Digital Technologies": {
+                "Locality": {"International": "32400", "Domestic": "8021"},
+                "Campuses": {"Burwood": "10660"}
+            },
+            "Bachelor of Design Visual Communication": {
+                "Locality": {"International": "32400", "Domestic": "9679"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Geelong Waterfront": "10920"
+                }
+            },
+            "Bachelor of Film, Television and Animation": {
+                "Locality": {"International": "33600", "Domestic": "11823"},
+                "Campuses": {"Burwood": "10660"}
+            },
+            "Bachelor of International Studies": {
+                "Locality": {"International": "30200", "Domestic": "13511"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Geelong Waterfront": "10920",
+                    "Cloud": "N/A"
+                }
+            }
+        },
+        "Faculty of Education": {
+            "Bachelor of Early Childhood Education": {
+                "Locality": {"International": "30400", "Domestic": "4845"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Early Childhood and Primary Education": {
+                "Locality": {"International": "30400", "Domestic": "4572"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Education Primary": {
+                "Locality": {"International": "30400", "Domestic": "4935"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Warrnambool": "9100"
+                }
+            },
+            "Bachelor of Health and Physical Education": {
+                "Locality": {"International": "30400", "Domestic": "5395"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320"
+                }
+            }
+        },
+        "Faculty of Business and Law": {
+            "Bachelor of Business": {
+                "Locality": {"International": "35600", "Domestic": "13787"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Geelong Waterfront": "10920",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Business Sport Management": {
+                "Locality": {"International": "35800", "Domestic": "14370"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Business Analytics": {
+                "Locality": {"International": "35800", "Domestic": "7482"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Commerce": {
+                "Locality": {"International": "35800", "Domestic": "13389"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Geelong Waterfront": "10920",
+                    "Warrnambool": "9100",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Laws": {
+                "Locality": {"International": "38000", "Domestic": "14447"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Geelong Waterfront": "10920",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Marketing Psychology": {
+                "Locality": {"International": "35600", "Domestic": "13388"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Property and Real Estate": {
+                "Locality": {"International": "32200", "Domestic": "12656"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Sport Development": {
+                "Locality": {"International": "35800", "Domestic": "14630"},
+                "Campuses": {
+                    "Burwood": "10660"
+                }
+            }
+        },
+        "Faculty of Health": {
+            "Bachelor of Exercise and Sport Science": {
+                "Locality": {"International": "37000", "Domestic": "10986"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Food and Nutrition Sciences": {
+                "Locality": {"International": "36400", "Domestic": "8135"},
+                "Campuses": {
+                    "Burwood": "10660"
+                }
+            },
+            "Bachelor of Health Sciences": {
+                "Locality": {"International": "32600", "Domestic": "9261"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Warrnambool": "9100",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Health and Medical Science Honours": {
+                "Locality": {"International": "37400", "Domestic": "10538"},
+                "Campuses": {
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Nursing": {
+                "Locality": {"International": "35200", "Domestic": "5110"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Geelong Waterfront": "10920",
+                    "Warrnambool": "9100"
+                }
+            },
+            "Bachelor of Nutrition Science": {
+                "Locality": {"International": "36400", "Domestic": "8135"},
+                "Campuses": {
+                    "Burwood": "10660"
+                }
+            },
+            "Bachelor of Occupational Therapy": {
+                "Locality": {"International": "38400", "Domestic": "8272"},
+                "Campuses": {
+                    "Geelong Waterfront": "10920"
+                }
+            },
+            "Bachelor of Psychological Science": {
+                "Locality": {"International": "34200", "Domestic": "8781"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Warrnambool": "9100",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Social Work": {
+                "Locality": {"International": "32600", "Domestic": "10772"},
+                "Campuses": {
+                    "Geelong Waterfront": "10920",
+                    "Cloud": "N/A"
+                }
+            }
+        },
+        "Faculty of Science, Engineering and Built Environment": {
+            "Bachelor of Biomedical Science": {
+                "Locality": {"International": "37400", "Domestic": "8224"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Civil Engineering Honours": {
+                "Locality": {"International": "36400", "Domestic": "7024"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Computer Science": {
+                "Locality": {"International": "34400", "Domestic": "7413"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Construction Management Honours": {
+                "Locality": {"International": "33600", "Domestic": "8117"},
+                "Campuses": {
+                    "Geelong Waterfront": "10920"
+                }
+            },
+            "Bachelor of Cyber Security": {
+                "Locality": {"International": "34400", "Domestic": "7601"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Design Architecture": {
+                "Locality": {"International": "33600", "Domestic": "8050"},
+                "Campuses": {
+                    "Geelong Waterfront": "10920"
+                }
+            },
+            "Bachelor of Electrical and Electronics Engineering Honours": {
+                "Locality": {"International": "36400", "Domestic": "7142"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Environmental Engineering Honours": {
+                "Locality": {"International": "36400", "Domestic": "7199"},
+                "Campuses": {
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Environmental Science Marine Biology": {
+                "Locality": {"International": "37000", "Domestic": "8110"},
+                "Campuses": {
+                    "Warrnambool": "9100"
+                }
+            },
+            "Bachelor of Environmental Science Wildlife and Conservation Biology": {
+                "Locality": {"International": "37000", "Domestic": "8223"},
+                "Campuses": {
+                    "Burwood": "10660"
+                }
+            },
+            "Bachelor of Forensic Science": {
+                "Locality": {"International": "37000", "Domestic": "8463"},
+                "Campuses": {
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Health and Medical Science Honours": {
+                "Locality": {"International": "37400", "Domestic": "10538"},
+                "Campuses": {
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Human Resource Management Psychology": {
+                "Locality": {"International": "35600", "Domestic": "14630"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Geelong Waterfront": "10920",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Information Technology": {
+                "Locality": {"International": "34400", "Domestic": "8018"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Marine Science": {
+                "Locality": {"International": "37000", "Domestic": "7575"},
+                "Campuses": {
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Mechanical Engineering Honours": {
+                "Locality": {"International": "36400", "Domestic": "7120"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Mechatronics Engineering Honours": {
+                "Locality": {"International": "36400", "Domestic": "7154"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320",
+                    "Cloud": "N/A"
+                }
+            },
+            "Bachelor of Medical Imaging": {
+                "Locality": {"International": "38400", "Domestic": "8021"},
+                "Campuses": {
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Science": {
+                "Locality": {"International": "37000", "Domestic": "7774"},
+                "Campuses": {
+                    "Burwood": "10660",
+                    "Waurn Ponds": "8320"
+                }
+            },
+            "Bachelor of Zoology and Animal Science": {
+                "Locality": {"International": "37000", "Domestic": "8424"},
+                "Campuses": {
+                    "Waurn Ponds": "8320"
+                }
+            }
+        }
+    },
 	"La Trobe University": {
 		"Arts, Social Sciences and Communications": {
 			"Bachelor of Archeology": {
