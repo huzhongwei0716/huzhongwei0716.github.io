@@ -1727,5 +1727,198 @@ costData =
                 "Campuses": {"Bundoora": "9620"}
             }
         }
-	}
+	},
+    "Swinburne University": {
+        "Arts, Humanities and Social Sciences": {
+            "Bachelor of Arts": {
+                "Locality": {"International": "29330", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Aviation": {
+            "Bachelor of Aviation Management": {
+                "Locality": {"International": "37900", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Aviation": {
+                "Locality": {"International": "0", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Built environment and architecture": {
+            "Bachelor of Design (Architecture)": {
+                "Locality": {"International": "35230", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Business": {
+            "Bachelor of Accounting": {
+                "Locality": {"International": "33100", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Business": {
+                "Locality": {"International": "33100", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Business Information Systems": {
+                "Locality": {"International": "33100", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Business (Professional)": {
+                "Locality": {"International": "31360", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Business Information Technology (Professional)": {
+                "Locality": {"International": "0", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Design": {
+            "Bachelor of Design": {
+                "Locality": {"International": "33780", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Design (Interior Architecture)": {
+                "Locality": {"International": "34200", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Design (Industrial Design) ": {
+                "Locality": {"International": "35230", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Design (Communication Design)": {
+                "Locality": {"International": "33780", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Education": {
+            "Bachelor of Education (Primary)": {
+                "Locality": {"International": "28390", "Domestic": "3985"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Education (Early Childhood and Primary)": {
+                "Locality": {"International": "28390", "Domestic": "3985"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Engineering": {
+            "Bachelor of Civil Engineering ": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Mechanical Engineering ": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Software Engineering ": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Biomedical Engineering ": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Architectural Engineering ": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Engineering -- product design": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Engineering -- Robotics and Mechatronics": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Engineering -- Electrical and Electronic": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Digital Construction Management": {
+                "Locality": {"International": "38600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Film, Television, Games, Animation and Information Technology": {
+            "Bachelor of Animation": {
+                "Locality": {"International": "37700", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Computer Science": {
+                "Locality": {"International": "33180", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Screen Production": {
+                "Locality": {"International": "37700", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Games and Interactivity": {
+                "Locality": {"International": "33370", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Film and Television (Honours)": {
+                "Locality": {"International": "37700", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Information and Communication Technology": {
+                "Locality": {"International": "33180", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Health and Nursing": {
+            "Bachelor of Nursing": {
+                "Locality": {"International": "35910", "Domestic": "3985"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Exercise and Sport Science": {
+                "Locality": {"International": "34690", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Health Science": {
+                "Locality": {"International": "34020", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Law": {
+            "Bachelor of Laws": {
+                "Locality": {"International": "35000", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Criminal Justice and Criminology": {
+                "Locality": {"International": "29300", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Media and communication": {
+            "Bachelor of Media and Communication": {
+                "Locality": {"International": "32090", "Domestic": "14630"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        },
+        "Science and Psychology": {
+            "Bachelor of Psychology (Honours)": {
+                "Locality": {"International": "35600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Science": {
+                "Locality": {"International": "36260", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            },
+            "Bachelor of Psychological Sciences": {
+                "Locality": {"International": "35600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        }
+    },
+    "Victoria University": {
+        "replace": {
+            "replace": {
+                "Locality": {"International": "25600", "Domestic": "8021"},
+                "Campuses": {"Hawthorn": "15210"}
+            }
+        }
+    },
+    "Federation University": {
+        
+    }
 }
