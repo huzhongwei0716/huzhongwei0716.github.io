@@ -1174,9 +1174,9 @@ costData =
                 "Locality": {"International": "36480", "Domestic": "8021"},
                 "Campuses": {"Melbourne": "10400"}
             },
-            "Bachelor of Science Applied Sciences": {
+            "Bachelor of Science (Applied Sciences)": {
                 "Locality": {"International": "36480", "Domestic": "8021"},
-                "Campuses": {"Melbourne": "10400"}
+                "Campuses": {"Bundoora": "9620"}
             },
             "Bachelor of Science Biological Sciences": {
                 "Locality": {"International": "36480", "Domestic": "8021"},
@@ -1204,31 +1204,290 @@ costData =
             }
         },
         "Art and Design": {
-
+            "Bachelor of Arts (Creative Writing)": {
+                "Locality": {"International": "34560", "Domestic": "3985"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Arts (Fine Art)": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Arts (Music Industry)": {
+                "Locality": {"International": "31680", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Arts (Photography)": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Design (Games)": {
+                "Locality": {"International": "39360", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Fashion (Design)": {
+                "Locality": {"International": "40320", "Domestic": "8021"},
+                "Campuses": {"Brunswick": "14040"}
+            },
+            "Bachelor of Fashion (Enterprise)": {
+                "Locality": {"International": "40320", "Domestic": "8021"},
+                "Campuses": {"Brunswick": "14040"}
+            },
+            "Bachelor of Fashion and Textiles (Sustainable Innovation)": {
+                "Locality": {"International": "40320", "Domestic": "8021"},
+                "Campuses": {"Brunswick": "14040"}
+            },
+            "Bachelor of Industrial Design": {
+                "Locality": {"International": "42240", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Textiles (Design)": {
+                "Locality": {"International": "40320", "Domestic": "8021"},
+                "Campuses": {"Brunswick": "14040"}
+            }
         },
         "Health and Medical Sciences": {
-
+            "Replace": {
+                "Locality": {"International": "40320", "Domestic": "11401"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Biomedical Science (Laboratory Medicine)": {
+                "Locality": {"International": "40320", "Domestic": "11401"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Nursing": {
+                "Locality": {"International": "36480", "Domestic": "11401"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Pharmaceutical Sciences": {
+                "Locality": {"International": "40320", "Domestic": "11401"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Pharmacy (Honours)": {
+                "Locality": {"International": "44160", "Domestic": "11401"},
+                "Campuses": {"Bundoora": "9620"}
+            }
         },
         "Business": {
-
+            "Bachelor of Business": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Accountancy)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Blockchain Enabled Business)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Economics and Finance)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Entrepreneurship)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Financial Planning)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Human Resource Managment)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Information Systems)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (International Business)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Logistics and Supply Chain Management)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Management)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business (Marketing)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Business Professional Practice": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Laws": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            }
         },
         " Communication and Digital Media": {
-
+            "Bachelor of Communication (Advertising)": {
+                "Locality": {"International": "34560", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Communication (Journalism)": {
+                "Locality": {"International": "34560", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Communication (Media)": {
+                "Locality": {"International": "35520", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Communication (Professional Communication)": {
+                "Locality": {"International": "43776", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Communication (Public Relations)": {
+                "Locality": {"International": "34560", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Design (Animation and Interactive Media)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Design (Communication Design)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Design (Digital Media)": {
+                "Locality": {"International": "39360", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            }
         },
         "Computing and Information Technology": {
-
+            "Bachelor of Computer Science": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Information Technology": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            }
         },
         "Community services and social sciences": {
-
+            "Bachelor of Criminal Justice": {
+                "Locality": {"International": "30720", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Community services and social sciences": {
+                "Locality": {"International": "30720", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of International Studies": {
+                "Locality": {"International": "29760", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of International Studies (Development)": {
+                "Locality": {"International": "29760", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of International Studies (Global Security)": {
+                "Locality": {"International": "29760", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of International Studies (Languages)": {
+                "Locality": {"International": "29760", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Legal and Dispute Studies": {
+                "Locality": {"International": "30720", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Youth Work and Youth Studies": {
+                "Locality": {"International": "30720", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            }
         },
-        "Eeducation and Training": {
-
+        "Education and Training": {
+            "Bachelor of Education (Early Childhood Education)": {
+                "Locality": {"International": "29760", "Domestic": "3985"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Education (Primary and Early Childhood Education)": {
+                "Locality": {"International": "28800", "Domestic": "3985"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Education (Primary and Physical Education/Sport)": {
+                "Locality": {"International": "28800", "Domestic": "3985"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Education (Primary Education and Disability Inclusion)": {
+                "Locality": {"International": "28800", "Domestic": "3985"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Education (Primary)": {
+                "Locality": {"International": "28800", "Domestic": "3985"},
+                "Campuses": {"Bundoora": "9620"}
+            }
         },
         "Engineering": {
-
+            "Bachelor of Engineering (Advanced Manufacturing and Mechatronics) ": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Engineering (Aerospace Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Engineering (Automotive Engineering) ": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Engineering (Biomedical Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Engineering (Chemical Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Engineering (Civil and Infrastructure) ": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Engineering (Computerand Network Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Engineering (Electrical and Electronic Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Engineering (Electrical Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Engineering (Environmental Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Engineering (Mechanical Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Engineering (Sustainable Systems Engineering)": {
+                "Locality": {"International": "41280", "Domestic": "8021"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Software Engineering": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            }
         },
         "Environment and planning": {
-
+            "Bachelor of Environment and Society": {
+                "Locality": {"International": "30720", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Environmental Science": {
+                "Locality": {"International": "36480", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            }
         }
     },
 	"La Trobe University": {
