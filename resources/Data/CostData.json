@@ -1911,14 +1911,568 @@ costData =
         }
     },
     "Victoria University": {
-        "replace": {
-            "replace": {
+        "Arts & Humanities": {
+            "Bachelor of Arts": {
+                "Locality": {"International": "25600", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Community Development": {
+                "Locality": {"International": "24400", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Criminal Justice": {
+                "Locality": {"International": "25600", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Criminology": {
+                "Locality": {"International": "26800", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Screen Media": {
+                "Locality": {"International": "25600", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Criminal Justice and Psychological Studies": {
+                "Locality": {"International": "25600", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Music": {
                 "Locality": {"International": "25600", "Domestic": "8021"},
-                "Campuses": {"Hawthorn": "15210"}
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Psychological Studies": {
+                "Locality": {"International": "29000", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Social Work": {
+                "Locality": {"International": "26800", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Youth Work": {
+                "Locality": {"International": "25600", "Domestic": "8021"},
+                "Campuses": {
+                    "Footscray Park": "11440",
+                    "Online": "0"
+                }
+            }
+        },
+        "Business": {
+            "Bachelor of Business": {
+                "Locality": {"International": "29800", "Domestic": "14500"},
+                "Campuses": {
+                    "Melbourne": "10400",
+                    "Footscray Park": "11440"
+                }
+            }
+        },
+        "Computer and IT": {
+            "Bachelor of Cyber Security": {
+                "Locality": {"International": "30400", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Information Technology": {
+                "Locality": {"International": "30400", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            }
+        },
+        "Education": {
+            "Bachelor of Early Childhood Education and Leadership": {
+                "Locality": {"International": "27400", "Domestic": "3985"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Early Childhood Education": {
+                "Locality": {"International": "27400", "Domestic": "3985"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Education (P-12)": {
+                "Locality": {"International": "27400", "Domestic": "3985"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Education Studies": {
+                "Locality": {"International": "27400", "Domestic": "3985"},
+                "Campuses": {
+                    "Footscray Park": "11440",
+                    "Werribee": "8060"
+                }
+            },
+            "Bachelor of Physical Education and Sport Science": {
+                "Locality": {"International": "31000", "Domestic": "3985"},
+                "Campuses": {"Footscray Park": "11440"}
+            }
+        },
+        "Engineering and Science": {
+            "Bachelor of Science": {
+                "Locality": {"International": "0", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Building Design": {
+                "Locality": {"International": "31000", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Construction Management (Honours)": {
+                "Locality": {"International": "35600", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Engineering (Architectural Engineering)": {
+                "Locality": {"International": "35600", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Engineering (Civil Engineering)": {
+                "Locality": {"International": "35600", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Engineering (Electrical and Electronic Engineering)": {
+                "Locality": {"International": "35600", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Engineering  (Mechanical Engineering)": {
+                "Locality": {"International": "35600", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            }
+        },
+        "Health and Biomedicine": {
+            "Bachelor of Biomedical and Exercise Science": {
+                "Locality": {"International": "31600", "Domestic": "8021"},
+                "Campuses": {
+                    "Footscray Park": "11440",
+                    "St Albans": "8580"
+                }
+            },
+            "Bachelor of Biomedical Science": {
+                "Locality": {"International": "31600", "Domestic": "8021"},
+                "Campuses": {"St Albans": "8580"}
+            },
+            "Bachelor of Biomedicine": {
+                "Locality": {"International": "34000", "Domestic": "11401"},
+                "Campuses": {
+                    "Footscray Park": "11440",
+                    "St Albans": "8580"
+                }
+            },
+            "Bachelor of Dermal Sciences": {
+                "Locality": {"International": "33000", "Domestic": "8021"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Health Science": {
+                "Locality": {"International": "33400", "Domestic": "8021"},
+                "Campuses": {"St Albans": "8580"}
+            },
+            "Bachelor of Human Nutrition": {
+                "Locality": {"International": "29800", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Nursing": {
+                "Locality": {"International": "33000", "Domestic": "3985"},
+                "Campuses": {"St Albans": "8580"}
+            },
+            "Bachelor of Paramedicine": {
+                "Locality": {"International": "31600", "Domestic": "8021"},
+                "Campuses": {"St Albans": "8580"}
+            },
+            "Bachelor of Psychological Studies": {
+                "Locality": {"International": "29000", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            }
+        },
+        "Law and Justice": {
+            "Bachelor of Criminal Justice and Psychological Studies": {
+                "Locality": {"International": "25600", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Criminal Justice": {
+                "Locality": {"International": "25600", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Criminology": {
+                "Locality": {"International": "26800", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            },
+            "Bachelor of Laws": {
+                "Locality": {"International": "29800", "Domestic": "14630"},
+                "Campuses": {"Melbourne": "10400"}
+            }
+        },
+        "Sport and Exercise": {
+            "Bachelor of Biomedical and Exercise Science": {
+                "Locality": {"International": "31600", "Domestic": "8021"},
+                "Campuses": {
+                    "Footscray Park": "11440",
+                    "St Albans": "8580"
+                }
+            },
+            "Bachelor of Exercise Science (Clinical Practice)": {
+                "Locality": {"International": "32000", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Exercise Science (Sport Practice)": {
+                "Locality": {"International": "32000", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Outdoor Leadership": {
+                "Locality": {"International": "31000", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Physical Education and Sport Science": {
+                "Locality": {"International": "31000", "Domestic": "3985"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Sport Management": {
+                "Locality": {"International": "32000", "Domestic": "14630"},
+                "Campuses": {"Footscray Park": "11440"}
+            },
+            "Bachelor of Sport Science": {
+                "Locality": {"International": "29200", "Domestic": "8021"},
+                "Campuses": {"Footscray Park": "11440"}
             }
         }
     },
     "Federation University": {
-        
+        "Agriculture and horticulture": {
+            "Bachelor of Exercise and Sport Science": {
+                "Locality": {"International": "31100", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Health Sciences": {
+                "Locality": {"International": "0", "Domestic": "8021"},
+                "Campuses": {"Ballarat": "8138"}
+            },
+            "Bachelor of Occupational Therapy": {
+                "Locality": {"International": "0", "Domestic": "8021"},
+                "Campuses": {"Gippsland": "5200"}
+            },
+            "Bachelor of Physiotherapy": {
+                "Locality": {"International": "0", "Domestic": "8021"},
+                "Campuses": {"Gippsland": "5200"}
+            },
+            "Bachelor of Speech Pathology": {
+                "Locality": {"International": "0", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Gippsland": "5200"
+                }
+            }
+        },
+        "Arts, humanities and social sciences": {
+            "Bachelor of Arts": {
+                "Locality": {"International": "21900", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Community and Human Services": {
+                "Locality": {"International": "24400", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Criminal Justice Management": {
+                "Locality": {"International": "24400", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Criminology and Criminal Justice": {
+                "Locality": {"International": "24400", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            }
+        },
+        "Business": {
+            "Bachelor of Applied Management": {
+                "Locality": {"International": "25900", "Domestic": "14630"},
+                "Campuses": {"Online": "0"}
+            },
+            "Bachelor of Business": {
+                "Locality": {"International": "25900", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Cognitive Enterprise": {
+                "Locality": {"International": "25900", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Professional Accounting": {
+                "Locality": {"International": "25900", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            }
+        },
+        "Education and early childhood": {
+            "Bachelor of Education (Early Childhood and Primary)": {
+                "Locality": {"International": "24600", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Education (Early Childhood Education)": {
+                "Locality": {"International": "24600", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Education (Primary)": {
+                "Locality": {"International": "24600", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Education Studies": {
+                "Locality": {"International": "24600", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Outdoor and Environmental Education": {
+                "Locality": {"International": "28500", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Secondary Education": {
+                "Locality": {"International": "24600", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Secondary Education (Health and Physical Education Teaching)": {
+                "Locality": {"International": "24600", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            }
+        },
+        "Engineering": {
+            "Bachelor of Engineering (Civil)": {
+                "Locality": {"International": "29200", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Engineering (Electrical and Information Engineering)": {
+                "Locality": {"International": "29200", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Engineering (Mechanical)": {
+                "Locality": {"International": "29200", "Domestic": "8021"},
+                "Campuses": {"Ballarat": "8138"}
+            },
+            "Bachelor of Engineering (Mining)": {
+                "Locality": {"International": "29200", "Domestic": "8021"},
+                "Campuses": {"Ballarat": "8138"}
+            }
+        },
+        "Information technology": {
+            "Bachelor of Information Technology": {
+                "Locality": {"International": "24700", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Information Technology (Big Data and Analytics)": {
+                "Locality": {"International": "24700", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360"
+                }
+            },
+            "Bachelor of Information Technology (Business Information Systems)": {
+                "Locality": {"International": "24700", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Information Technology (Networking and Security)": {
+                "Locality": {"International": "24700", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Information Technology (Professional Practice)": {
+                "Locality": {"International": "24700", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Information Technology (Software Development)": {
+                "Locality": {"International": "24700", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Online": "0"
+                }
+            }
+        },
+        "Nursing, midwifery and paramedicine": {
+            "Bachelor of Nursing": {
+                "Locality": {"International": "30900", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Nursing/Bachelor of Midwifery": {
+                "Locality": {"International": "30900", "Domestic": "3985"},
+                "Campuses": {"Gippsland": "5200"}
+            }
+        },
+        "Performing arts": {
+            "Bachelor of Arts (Creative Arts)": {
+                "Locality": {"International": "21900", "Domestic": "14630"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Performing Arts": {
+                "Locality": {"International": "27700", "Domestic": "8021"},
+                "Campuses": {"Ballarat": "8138"}
+            }
+        },
+        "Psychology": {
+            "Bachelor of Psychological Science": {
+                "Locality": {"International": "26100", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            }
+        },
+        "Science and mathematics": {
+            "Bachelor of Biomedical Science": {
+                "Locality": {"International": "28200", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Environmental and Conservation Science": {
+                "Locality": {"International": "28200", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Geoscience": {
+                "Locality": {"International": "28200", "Domestic": "8021"},
+                "Campuses": {"Ballarat": "8138"}
+            },
+            "Bachelor of Mathematical Science": {
+                "Locality": {"International": "25100", "Domestic": "3985"},
+                "Campuses": {"Berwick": "9360"}
+            },
+            "Bachelor of Science": {
+                "Locality": {"International": "28200", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Sustainable Food Systems": {
+                "Locality": {"International": "28200", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Veterinary and Wildlife Science": {
+                "Locality": {"International": "28200", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200",
+                    "Online": "0"
+                }
+            }
+        },
+        "Sport, outdoor and physical education": {
+            "Bachelor of International Sport Management": {
+                "Locality": {"International": "18000", "Domestic": "14630"},
+                "Campuses": {"Online": "0"}
+            },
+            "Bachelor of Secondary Education (Health and Physical Education Teaching)": {
+                "Locality": {"International": "24600", "Domestic": "3985"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Berwick": "9360",
+                    "Gippsland": "5200"
+                }
+            },
+            "Bachelor of Sport Management (Honours)": {
+                "Locality": {"International": "0", "Domestic": "14630"},
+                "Campuses": {"Ballarat": "8138"}
+            }
+        },
+        "Visual arts": {
+            "Bachelor of Visual Arts": {
+                "Locality": {"International": "27700", "Domestic": "8021"},
+                "Campuses": {
+                    "Ballarat": "8138",
+                    "Gippsland": "5200"
+                }
+            }
+        }
     }
 }
