@@ -717,7 +717,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor Creative Writing": {
@@ -725,7 +725,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Arts Psychology": {
@@ -733,14 +733,14 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Communication Advertising": {
                 "Locality": {"International": "31600", "Domestic": "13875"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Communication Digital Media": {
@@ -748,7 +748,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Communication Journalism": {
@@ -756,7 +756,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Communication Public Relations": {
@@ -764,7 +764,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Creative Arts Dance": {
@@ -788,7 +788,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Design 3d Animation": {
@@ -815,7 +815,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Geelong Waterfront": "10920",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             }
         },
@@ -824,14 +824,14 @@ costData =
                 "Locality": {"International": "30400", "Domestic": "4845"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Early Childhood and Primary Education": {
                 "Locality": {"International": "30400", "Domestic": "4572"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Education Primary": {
@@ -856,21 +856,21 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Geelong Waterfront": "10920",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Business Sport Management": {
                 "Locality": {"International": "35800", "Domestic": "14370"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Business Analytics": {
                 "Locality": {"International": "35800", "Domestic": "7482"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Commerce": {
@@ -879,7 +879,7 @@ costData =
                     "Burwood": "10660",
                     "Geelong Waterfront": "10920",
                     "Warrnambool": "9100",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Laws": {
@@ -887,21 +887,21 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Geelong Waterfront": "10920",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Marketing Psychology": {
                 "Locality": {"International": "35600", "Domestic": "13388"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Property and Real Estate": {
                 "Locality": {"International": "32200", "Domestic": "12656"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Sport Development": {
@@ -931,7 +931,7 @@ costData =
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
                     "Warrnambool": "9100",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Health and Medical Science Honours": {
@@ -966,14 +966,14 @@ costData =
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
                     "Warrnambool": "9100",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Social Work": {
                 "Locality": {"International": "32600", "Domestic": "10772"},
                 "Campuses": {
                     "Geelong Waterfront": "10920",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             }
         },
@@ -990,14 +990,14 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Computer Science": {
                 "Locality": {"International": "34400", "Domestic": "7413"},
                 "Campuses": {
                     "Burwood": "10660",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Construction Management Honours": {
@@ -1011,7 +1011,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Design Architecture": {
@@ -1025,14 +1025,14 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Environmental Engineering Honours": {
                 "Locality": {"International": "36400", "Domestic": "7199"},
                 "Campuses": {
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Environmental Science Marine Biology": {
@@ -1064,7 +1064,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Geelong Waterfront": "10920",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Information Technology": {
@@ -1072,7 +1072,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Marine Science": {
@@ -1086,7 +1086,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Mechatronics Engineering Honours": {
@@ -1094,7 +1094,7 @@ costData =
                 "Campuses": {
                     "Burwood": "10660",
                     "Waurn Ponds": "8320",
-                    "Cloud": "N/A"
+                    "Cloud": "0"
                 }
             },
             "Bachelor of Medical Imaging": {
@@ -1506,7 +1506,226 @@ costData =
                     "Shepparton": "7280",
                     "Online": "0"
                 }
+            },
+            "Bachelor of Global Studies": {
+                "Locality": {"International": "32800", "Domestic": "13782"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Languages and Linguistics": {
+                "Locality": {"International": "31400", "Domestic": "6015"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Media and Communication": {
+                "Locality": {"International": "32800", "Domestic": "14095"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Planning": {
+                "Locality": {"International": "31600", "Domestic": "10490"},
+                "Campuses": {"Bendigo": "8580"}
+            },
+            "Bachelor of Politics, Philosophy and Economics": {
+                "Locality": {"International": "33000", "Domestic": "14493"},
+                "Campuses": {"Bundoora": "9620"}
             }
-		}
+		},
+        "Business and commerce": {
+            "Bachelor of Accounting": {
+                "Locality": {"International": "34200", "Domestic": "12870"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580",
+                    "Dandenong": "8320",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Business": {
+                "Locality": {"International": "35800", "Domestic": "12592"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580",
+                    "Dandenong": "8320",
+                    "Online": "0"
+                }
+            },
+            "Bachelor of Business Analytics": {
+                "Locality": {"International": "37400", "Domestic": "10548"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Commerce": {
+                "Locality": {"International": "38200", "Domestic": "12829"},
+                "Campuses": {"Bundoora": "9620"}
+            }
+        },
+        "Education and teaching": {
+            "Bachelor of Early Childhood and Primary Education": {
+                "Locality": {"International": "32800", "Domestic": "3985"},
+                "Campuses": {
+                    "Bendigo": "8580",
+                    "Shepparton": "7280"
+                }
+            },
+            "Bachelor of Education (Primary)": {
+                "Locality": {"International": "34000", "Domestic": "4743"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Mildura": "7540",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Education (Secondary)": {
+                "Locality": {"International": "34000", "Domestic": "5221"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Mildura": "7540",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Outdoor and Sustainability Education": {
+                "Locality": {"International": "33400", "Domestic": "8788"},
+                "Campuses": {"Bendigo": "8580"}
+            }
+        },
+        "Health": {
+            "Bachelor of Dental Science (Honours)": {
+                "Locality": {"International": "73400", "Domestic": "10555"},
+                "Campuses": {"Bendigo": "8580"}
+            },
+            "Bachelor of Health Sciences": {
+                "Locality": {"International": "36000", "Domestic": "8192"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Nursing": {
+                "Locality": {"International": "39600", "Domestic": "6599"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Albury-Wodonga": "8320",
+                    "Bendigo": "8580",
+                    "Berwick": "9360",
+                    "Frankston": "9360",
+                    "Mildura": "7540",
+                    "Shepparton": "7280"
+                }
+            },
+            "Bachelor of Physiotherapy (Honours)": {
+                "Locality": {"International": "50200", "Domestic": "8847"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Psychological Science": {
+                "Locality": {"International": "39600", "Domestic": "8118"},
+                "Campuses": {"Bendigo": "8580"}
+            },
+            "Bachelor of Social Work (Honours)": {
+                "Locality": {"International": "38000", "Domestic": "10499"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Albury-Wodonga": "8320",
+                    "Mildura": "7540",
+                    "Bendigo": "8580",
+                    "Shepparton": "7280"
+                }
+            },
+            "Bachelor of Sport and Exercise Science": {
+                "Locality": {"International": "37400", "Domestic": "12174"},
+                "Campuses": {
+                    "Bendigo": "8580",
+                    "Albury-Wodonga": "8320",
+                    "Bundoora": "9620",
+                    "Online": "0"
+                }
+            }
+        },
+        "IT and engineering": {
+            "Bachelor of Civil Engineering (Honours)": {
+                "Locality": {"International": "35600", "Domestic": "7071"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Computer Science": {
+                "Locality": {"International": "36200", "Domestic": "7058"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Cybersecurity": {
+                "Locality": {"International": "36200", "Domestic": "8426"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Engineering Honours (Industrial)": {
+                "Locality": {"International": "35600", "Domestic": "6885"},
+                "Campuses": {"Bundoora": "9620"}
+            },
+            "Bachelor of Information Technology": {
+                "Locality": {"International": "35600", "Domestic": "7655"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580",
+                    "Online": "0"
+                }
+            }
+        },
+        "Law and criminology": {
+            "Bachelor of Criminology": {
+                "Locality": {"International": "36600", "Domestic": "14187"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Laws (Honours)": {
+                "Locality": {"International": "39000", "Domestic": "14235"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580"
+                }
+            }
+        },
+        "Science": {
+            "Bachelor of Agriculture": {
+                "Locality": {"International": "39200", "Domestic": "7033"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Albury-Wodonga": "8320"
+                }
+            },
+            "Bachelor of Animal and Veterinary Biosciences": {
+                "Locality": {"International": "37800", "Domestic": "6929"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Albury-Wodonga": "8320"
+                }
+            },
+            "Bachelor of Biological Sciences": {
+                "Locality": {"International": "37800", "Domestic": "7596"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Albury-Wodonga": "8320"
+                }
+            },
+            "Bachelor of Biomedicine": {
+                "Locality": {"International": "38600", "Domestic": "8218"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Albury-Wodonga": "8320",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Science": {
+                "Locality": {"International": "37000", "Domestic": "7893"},
+                "Campuses": {
+                    "Bundoora": "9620",
+                    "Bendigo": "8580"
+                }
+            },
+            "Bachelor of Wildlife and Conservation Biology": {
+                "Locality": {"International": "36600", "Domestic": "8263"},
+                "Campuses": {"Bundoora": "9620"}
+            }
+        }
 	}
 }
